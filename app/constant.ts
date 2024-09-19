@@ -235,7 +235,7 @@ Latex block: $$e=mc^2$$
 `;
 
 // export const SUMMARIZE_MODEL = "gpt-4o-mini";
-export const SUMMARIZE_MODEL = "4otrial";
+export const SUMMARIZE_MODEL = "gpt-4o";
 export const GEMINI_SUMMARIZE_MODEL = "gemini-pro";
 
 export const KnowledgeCutOffDate: Record<string, string> = {
